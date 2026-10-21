@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# The signed files must reach the program byte for byte.
+stable/** -text

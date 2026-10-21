@@ -1,0 +1,28 @@
+name: Sign the update
+on:
+  push:
+    branches: [main]
+    paths: ["stable/release.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sign:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install cryptography==43.0.3
+      - name: Sign
+        env:
+          LA_SIGNING_KEY: ${{ secrets.LA_SIGNING_KEY }}
+        run: python tools/sign_release.py
+      - name: Save the signed files
+        run: |
+          git config user.name "Listing Accelerator"
+          git config user.email "sales@automotivesalesaccelerator.com"
+          git add stable/latest.json stable/latest.json.sig
+          git diff --cached --quiet || git commit -m "Signed update $(python -c 'import json;print(json.load(open("stable/release.json"))["version"])')"
+          git push
