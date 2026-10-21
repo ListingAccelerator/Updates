@@ -1,12 +1,11 @@
 {
- "version": "1.4.1",
+ "version": "1.5",
  "notes": [
-  "Fixes the window getting stuck on \"Starting up\"",
-  "All your stores in one program",
-  "One click from the desktop icon",
-  "Full photo sets for every car"
+  "Customer book: your Marketplace customers, follow-ups, notes and chats",
+  "Copy for CRM once there's an appointment",
+  "Old \"read\" times show their date"
  ],
- "zip": "ListingAccelerator-1.4.1.zip",
- "sha256": "b8c84ac318fc6ba03154383afc450d83032e2ef18029b3f172e522b3a326de6e",
+ "zip": "ListingAccelerator-1.5.zip",
+ "sha256": "ffad01150b30bb6462ef36ef03db021944da4d686a89a72184286b38f812f91d",
  "critical": false
 }
