@@ -1,10 +1,11 @@
 {
- "version": "1.5.1",
+ "version": "1.6",
  "notes": [
-  "The customer book is now Accelerator CRM",
-  "\"Copy for dealer CRM\" and \"Entered in dealer CRM\" for your dealership's own CRM"
+  "AI replies (optional): the Reply helper writes three replies the Accelerator way",
+  "Turn it on in Accelerator CRM, AI replies: Copy for AI (no setup) or a free Gemini key",
+  "Customer names, phones, emails and addresses are never sent"
  ],
- "zip": "ListingAccelerator-1.5.1.zip",
- "sha256": "0917e88635a73f1f49b838c536e0a21d118d8e0794bb7c2d0796005f66b1a56b",
+ "zip": "ListingAccelerator-1.6.zip",
+ "sha256": "5e8a008c12cd322af509fc25e4336abb0c0bda702e85307c8595091c927c2111",
  "critical": false
 }
