@@ -1,10 +1,9 @@
 {
- "version": "1.5",
- "zip": "ListingAccelerator-1.5.zip",
+ "version": "1.5.1",
+ "zip": "ListingAccelerator-1.5.1.zip",
  "notes": [
-  "Customer book: your Marketplace customers, follow-ups, notes and chats",
-  "Copy for CRM once there's an appointment",
-  "Old \"read\" times show their date"
+  "The customer book is now Accelerator CRM",
+  "\"Copy for dealer CRM\" and \"Entered in dealer CRM\" for your dealership's own CRM"
  ],
  "critical": false,
  "published": "2026-10-21"
