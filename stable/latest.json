@@ -1,12 +1,12 @@
 {
- "version": "1.4",
+ "version": "1.4.1",
  "notes": [
+  "Fixes the window getting stuck on \"Starting up\"",
   "All your stores in one program",
-  "Update button",
   "One click from the desktop icon",
   "Full photo sets for every car"
  ],
- "zip": "ListingAccelerator-1.4.zip",
- "sha256": "90f7655acf04cb513e297e0ef5714cab0fa22394bf31470573d7a34fd8f8f4a5",
+ "zip": "ListingAccelerator-1.4.1.zip",
+ "sha256": "b8c84ac318fc6ba03154383afc450d83032e2ef18029b3f172e522b3a326de6e",
  "critical": false
 }
