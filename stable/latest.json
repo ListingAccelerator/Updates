@@ -1,0 +1,12 @@
+{
+ "version": "1.4",
+ "notes": [
+  "All your stores in one program",
+  "Update button",
+  "One click from the desktop icon",
+  "Full photo sets for every car"
+ ],
+ "zip": "ListingAccelerator-1.4.zip",
+ "sha256": "90f7655acf04cb513e297e0ef5714cab0fa22394bf31470573d7a34fd8f8f4a5",
+ "critical": false
+}
