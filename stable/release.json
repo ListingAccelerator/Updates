@@ -1,10 +1,11 @@
 {
- "version": "1.6.4",
- "zip": "ListingAccelerator-1.6.4.zip",
+ "version": "1.7",
+ "zip": "ListingAccelerator-1.7.zip",
  "notes": [
-  "New or used: New / Used / Either for each customer",
-  "The \"New\" status now says \"New lead\""
+  "Walkaround videos: pick a car, review the captions, make the video",
+  "Captions only come from the car's website listing; the AI can match them to each photo",
+  "Instructions are now \"How to...\" drop-downs"
  ],
  "critical": false,
- "published": "2026-10-21"
+ "published": "2026-10-22"
 }
