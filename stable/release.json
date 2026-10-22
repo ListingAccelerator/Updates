@@ -1,10 +1,9 @@
 {
- "version": "1.9.0",
- "zip": "ListingAccelerator-1.9.0.zip",
+ "version": "1.9.1",
+ "zip": "ListingAccelerator-1.9.1.zip",
  "notes": [
-  "New: Backgrounds -- put a car's outside photos on a new scene (the car itself is never changed)",
-  "The morning run can do every car, switching with the seasons",
-  "Walkaround videos can use the background photos"
+  "Sold cars clear out by themselves a week after they leave the website (photos go to the Recycle Bin)",
+  "Backgrounds (from 1.9.0)"
  ],
  "critical": false,
  "published": "2026-10-22"
