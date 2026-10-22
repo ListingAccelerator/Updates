@@ -1,9 +1,10 @@
 {
- "version": "1.8.4",
+ "version": "1.8.5",
  "notes": [
-  "No engineering specs as walkaround captions; MPG and miles instead"
+  "Fixed: cars with no markdown were told to \"drop\" to a price $575 higher",
+  "Walkaround captions: no engineering specs"
  ],
- "zip": "ListingAccelerator-1.8.4.zip",
- "sha256": "c7f309c8fde10c9062aa5823aaba860577d3ae5f17797e4c0b5adf03dd321b4a",
- "critical": false
+ "zip": "ListingAccelerator-1.8.5.zip",
+ "sha256": "edbcd7cb25ddebe905039b36302e6f294ee14cfa0e9395de9578e146df030a3b",
+ "critical": true
 }
