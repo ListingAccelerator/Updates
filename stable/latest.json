@@ -1,9 +1,10 @@
 {
- "version": "2.3.1",
+ "version": "2.3.2",
  "notes": [
-  "AI captions: side and rear shots get the car's strong facts instead of No caption"
+  "Walkaround videos take up to 20 photos (was 16)",
+  "AI captions fill side and rear shots (2.3.1)"
  ],
- "zip": "ListingAccelerator-2.3.1.zip",
- "sha256": "5d786aa06facdc43e86ca1e0da2e6d319bd69faa9ae50fc88ee8cdf8e11d2997",
+ "zip": "ListingAccelerator-2.3.2.zip",
+ "sha256": "20c818250171e0e44f539fd7cb9b6e1f9db23f611b7dd2a8a027f1eacd3ce5a6",
  "critical": false
 }
