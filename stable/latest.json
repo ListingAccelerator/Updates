@@ -1,10 +1,9 @@
 {
- "version": "2.4.0",
+ "version": "2.4.1",
  "notes": [
-  "+ Add my photos on the Walkaround, Backgrounds and Social screens -- used everywhere",
-  "Pick the main photo for ad pictures"
+  "Your photo and name are set once for every store"
  ],
- "zip": "ListingAccelerator-2.4.0.zip",
- "sha256": "5b3ff4043ee87c3255d09ca6d14b4c80d0497ba5ee2179940979c12a2374766d",
+ "zip": "ListingAccelerator-2.4.1.zip",
+ "sha256": "ee9ff9b3444ba7cc86c15bc8bc20ea906e8935dbebd9b6e9e6d068f89ba1434b",
  "critical": false
 }
