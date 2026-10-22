@@ -1,8 +1,8 @@
 {
- "version": "1.6.2",
- "zip": "ListingAccelerator-1.6.2.zip",
+ "version": "1.6.3",
+ "zip": "ListingAccelerator-1.6.3.zip",
  "notes": [
-  "AI replies keep going when Google is busy: retries, then tries another model"
+  "AI replies: a slow Google is skipped for a faster model instead of stopping"
  ],
  "critical": false,
  "published": "2026-10-21"
