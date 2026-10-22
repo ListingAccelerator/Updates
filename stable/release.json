@@ -1,8 +1,8 @@
 {
- "version": "2.4.1",
- "zip": "ListingAccelerator-2.4.1.zip",
+ "version": "2.4.2",
+ "zip": "ListingAccelerator-2.4.2.zip",
  "notes": [
-  "Your photo and name are set once for every store"
+  "A background you pick for a car is kept as picked -- the season switch only changes the store's everyday background"
  ],
  "critical": false,
  "published": "2026-10-22"
