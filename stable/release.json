@@ -1,6 +1,6 @@
 {
- "version": "2.7.0",
- "zip": "ListingAccelerator-2.7.0.zip",
+ "version": "2.7.1",
+ "zip": "ListingAccelerator-2.7.1.zip",
  "notes": [
   "Send to dealer CRM: customers go to VinSolutions, DealerSocket, Elead and others as ADF lead emails",
   "Integrations: dealer CRM leads, AI, inventory feed"
