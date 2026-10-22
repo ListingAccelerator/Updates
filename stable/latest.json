@@ -1,9 +1,10 @@
 {
- "version": "1.6.3",
+ "version": "1.6.4",
  "notes": [
-  "AI replies: a slow Google is skipped for a faster model instead of stopping"
+  "New or used: New / Used / Either for each customer",
+  "The \"New\" status now says \"New lead\""
  ],
- "zip": "ListingAccelerator-1.6.3.zip",
- "sha256": "4441a9923e7576314e8b7319dbdd7bfdd67402e0142665873966818fdf791d98",
+ "zip": "ListingAccelerator-1.6.4.zip",
+ "sha256": "73466f18a5cfc2f3cba4c05ab12e6c3d8196ebe8ff6e9c602cdc13b08d6ed4da",
  "critical": false
 }
