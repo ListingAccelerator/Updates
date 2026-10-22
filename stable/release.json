@@ -1,9 +1,9 @@
 {
- "version": "2.3.2",
- "zip": "ListingAccelerator-2.3.2.zip",
+ "version": "2.4.0",
+ "zip": "ListingAccelerator-2.4.0.zip",
  "notes": [
-  "Walkaround videos take up to 20 photos (was 16)",
-  "AI captions fill side and rear shots (2.3.1)"
+  "+ Add my photos on the Walkaround, Backgrounds and Social screens -- used everywhere",
+  "Pick the main photo for ad pictures"
  ],
  "critical": false,
  "published": "2026-10-22"
