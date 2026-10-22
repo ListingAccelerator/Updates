@@ -1,10 +1,9 @@
 {
- "version": "2.3.0",
+ "version": "2.3.1",
  "notes": [
-  "Walkaround videos use the background photos, with a switch on each photo",
-  "Backgrounds: a ready-to-post set for Marketplace"
+  "AI captions: side and rear shots get the car's strong facts instead of No caption"
  ],
- "zip": "ListingAccelerator-2.3.0.zip",
- "sha256": "0fe1efd378fb27fa3deae7c1fec8b59461313cd9d5f72050c5bc77d3dc1b0e61",
+ "zip": "ListingAccelerator-2.3.1.zip",
+ "sha256": "5d786aa06facdc43e86ca1e0da2e6d319bd69faa9ae50fc88ee8cdf8e11d2997",
  "critical": false
 }
