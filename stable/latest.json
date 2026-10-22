@@ -1,10 +1,11 @@
 {
- "version": "1.6.4",
+ "version": "1.7",
  "notes": [
-  "New or used: New / Used / Either for each customer",
-  "The \"New\" status now says \"New lead\""
+  "Walkaround videos: pick a car, review the captions, make the video",
+  "Captions only come from the car's website listing; the AI can match them to each photo",
+  "Instructions are now \"How to...\" drop-downs"
  ],
- "zip": "ListingAccelerator-1.6.4.zip",
- "sha256": "73466f18a5cfc2f3cba4c05ab12e6c3d8196ebe8ff6e9c602cdc13b08d6ed4da",
+ "zip": "ListingAccelerator-1.7.zip",
+ "sha256": "3c274122c6560c12c8f9d802f4b46ed76030742c597c79b7058df9fc9e2b4437",
  "critical": false
 }
