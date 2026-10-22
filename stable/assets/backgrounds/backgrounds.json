@@ -1,0 +1,32 @@
+{
+ "fall-field": {
+  "sha256": "8c355d9c27a70ff654645b1e59af1b8431da0b30a4388a098aa08cd1e3a3d101"
+ },
+ "fall-hillside": {
+  "sha256": "3b68a946ab214b4321204f842a61b757edd365ba76d4eb7be2d7ccd847b91e35"
+ },
+ "spring-mountain": {
+  "sha256": "f63a6bdb7d2b12785250fee19de87bc4646de7b4033a461a2e34b66a90fa313b"
+ },
+ "spring-road": {
+  "sha256": "eb8c2d46f0ea1baa5ff518136a39b99d29426746d8250daf9c955ce431333c77"
+ },
+ "summer-field": {
+  "sha256": "ed82ebdd92a192cd9164638ee6ad6bb94743d227b67ceaf7fe3594f3d452c5b9"
+ },
+ "summer-lake": {
+  "sha256": "87908ae4742c1eeefe39589be1b75e25f41525f6439de9519b55435d68685858"
+ },
+ "ocean": {
+  "sha256": "35c7d8ec21d16ee982932745360134c22820c782e3af9a78175eebf4522b9535"
+ },
+ "winter-road": {
+  "sha256": "a0af29f8088eafb7f2842b8eda1d50e17579dd994d2a7bf18ec394cbb64df4e1"
+ },
+ "winter-town": {
+  "sha256": "d2df9e87df6de19076e8ee994474aca000a9cc3dd08ba8673d058b7c0aa36c6e"
+ },
+ "winter-barn": {
+  "sha256": "309c5857a4d83b4544a77c05ae652e196ef6a0872ae9aad50554c7fa9114669a"
+ }
+}
