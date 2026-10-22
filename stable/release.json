@@ -1,10 +1,11 @@
 {
- "version": "1.8.5",
- "zip": "ListingAccelerator-1.8.5.zip",
+ "version": "1.9.0",
+ "zip": "ListingAccelerator-1.9.0.zip",
  "notes": [
-  "Fixed: cars with no markdown were told to \"drop\" to a price $575 higher",
-  "Walkaround captions: no engineering specs"
+  "New: Backgrounds -- put a car's outside photos on a new scene (the car itself is never changed)",
+  "The morning run can do every car, switching with the seasons",
+  "Walkaround videos can use the background photos"
  ],
- "critical": true,
+ "critical": false,
  "published": "2026-10-22"
 }
