@@ -1,10 +1,9 @@
 {
- "version": "1.7",
- "zip": "ListingAccelerator-1.7.zip",
+ "version": "1.8",
+ "zip": "ListingAccelerator-1.8.zip",
  "notes": [
-  "Walkaround videos: pick a car, review the captions, make the video",
-  "Captions only come from the car's website listing; the AI can match them to each photo",
-  "Instructions are now \"How to...\" drop-downs"
+  "Walkaround videos with music, a free Windows voice, or both",
+  "Country rock music made for the program, or your own music file"
  ],
  "critical": false,
  "published": "2026-10-22"
