@@ -1,9 +1,9 @@
 {
- "version": "1.8.3",
+ "version": "1.8.4",
  "notes": [
-  "The AI picks walkaround captions buyers care about"
+  "No engineering specs as walkaround captions; MPG and miles instead"
  ],
- "zip": "ListingAccelerator-1.8.3.zip",
- "sha256": "7300efabdd4437bab7e8a9763a8cccbbe8193811280308062cdf0d8ef30a723a",
+ "zip": "ListingAccelerator-1.8.4.zip",
+ "sha256": "c7f309c8fde10c9062aa5823aaba860577d3ae5f17797e4c0b5adf03dd321b4a",
  "critical": false
 }
