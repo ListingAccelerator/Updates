@@ -1,9 +1,8 @@
 {
- "version": "2.4.3",
- "zip": "ListingAccelerator-2.4.3.zip",
+ "version": "2.5.0",
+ "zip": "ListingAccelerator-2.5.0.zip",
  "notes": [
-  "Remove a store (with all its files, to the Recycle Bin)",
-  "Stores never read say Not read yet"
+  "Inventory feeds for stores whose website turns programs away (Settings -> Use an inventory feed instead)"
  ],
  "critical": false,
  "published": "2026-10-22"
