@@ -1,9 +1,9 @@
 {
- "version": "2.8.1",
+ "version": "2.8.2",
  "notes": [
-  "Setup's Test it picks the whole used lot, not a filtered link like 'Used under 20,000'"
+  "Ad pictures: your photo no longer covers the store's logo or the price tag"
  ],
- "zip": "ListingAccelerator-2.8.1.zip",
- "sha256": "4c14ea9df37f8528ccc50875d0829fceab3cea7f14ec8a420ab54c22c1e5a780",
+ "zip": "ListingAccelerator-2.8.2.zip",
+ "sha256": "9f3f75dc30155f655c179bb2f1c73f54cca84bda602b1837f5f71b20df89ed7d",
  "critical": false
 }
