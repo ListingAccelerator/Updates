@@ -1,9 +1,10 @@
 {
- "version": "2.5.0",
+ "version": "2.6.0",
  "notes": [
-  "Inventory feeds for stores whose website turns programs away (Settings -> Use an inventory feed instead)"
+  "Integrations button (inventory feed)",
+  "Instructions now have pictures of each screen showing where to click"
  ],
- "zip": "ListingAccelerator-2.5.0.zip",
- "sha256": "27b4ff15581f8d7245ca9516897c398d437c181ccbe30287279de69035b83bcc",
+ "zip": "ListingAccelerator-2.6.0.zip",
+ "sha256": "d510398d71fed10eea2caa023bd634708750f87ee143e670e249d7e4139d5865",
  "critical": false
 }
