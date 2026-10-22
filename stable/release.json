@@ -1,10 +1,9 @@
 {
- "version": "2.0.0",
- "zip": "ListingAccelerator-2.0.0.zip",
+ "version": "2.1.0",
+ "zip": "ListingAccelerator-2.1.0.zip",
  "notes": [
-  "New: Social -- ad pictures with your photo, carousels, captions with hashtags, today's deals, sold posts",
-  "Walkaround videos open with the website's savings",
-  "Backgrounds and the sold-car clear-out (from 1.9)"
+  "Social: Today's plan -- what to feature, deals days, and Marketplace listings to renew",
+  "Headshots never cropped at the top"
  ],
  "critical": false,
  "published": "2026-10-22"
