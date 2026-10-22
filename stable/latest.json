@@ -1,9 +1,10 @@
 {
- "version": "2.4.2",
+ "version": "2.4.3",
  "notes": [
-  "A background you pick for a car is kept as picked -- the season switch only changes the store's everyday background"
+  "Remove a store (with all its files, to the Recycle Bin)",
+  "Stores never read say Not read yet"
  ],
- "zip": "ListingAccelerator-2.4.2.zip",
- "sha256": "7235c9098716f489e14a7c4a4fe1c10e70eb79478e862214d155d45f050dc756",
+ "zip": "ListingAccelerator-2.4.3.zip",
+ "sha256": "a288499f0c78ff6cf13882af4e8d7e74f983d7cfc3e3e90fad63b980149be2ef",
  "critical": false
 }
