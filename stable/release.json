@@ -1,8 +1,9 @@
 {
- "version": "1.6.3",
- "zip": "ListingAccelerator-1.6.3.zip",
+ "version": "1.6.4",
+ "zip": "ListingAccelerator-1.6.4.zip",
  "notes": [
-  "AI replies: a slow Google is skipped for a faster model instead of stopping"
+  "New or used: New / Used / Either for each customer",
+  "The \"New\" status now says \"New lead\""
  ],
  "critical": false,
  "published": "2026-10-21"
