@@ -1,9 +1,8 @@
 {
- "version": "1.8.2",
- "zip": "ListingAccelerator-1.8.2.zip",
+ "version": "1.8.3",
+ "zip": "ListingAccelerator-1.8.3.zip",
  "notes": [
-  "Walkaround videos with a voice are tighter: no dead air between photos",
-  "Better captions on every website"
+  "The AI picks walkaround captions buyers care about"
  ],
  "critical": false,
  "published": "2026-10-22"
