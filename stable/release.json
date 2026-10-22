@@ -1,9 +1,8 @@
 {
- "version": "2.3.0",
- "zip": "ListingAccelerator-2.3.0.zip",
+ "version": "2.3.1",
+ "zip": "ListingAccelerator-2.3.1.zip",
  "notes": [
-  "Walkaround videos use the background photos, with a switch on each photo",
-  "Backgrounds: a ready-to-post set for Marketplace"
+  "AI captions: side and rear shots get the car's strong facts instead of No caption"
  ],
  "critical": false,
  "published": "2026-10-22"
