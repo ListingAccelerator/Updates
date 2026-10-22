@@ -1,8 +1,9 @@
 {
- "version": "2.2.0",
- "zip": "ListingAccelerator-2.2.0.zip",
+ "version": "2.3.0",
+ "zip": "ListingAccelerator-2.3.0.zip",
  "notes": [
-  "Walkaround videos from your own phone video -- trim it, keep your voice, price at the start, your number at the end"
+  "Walkaround videos use the background photos, with a switch on each photo",
+  "Backgrounds: a ready-to-post set for Marketplace"
  ],
  "critical": false,
  "published": "2026-10-22"
