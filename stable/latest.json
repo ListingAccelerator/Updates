@@ -1,10 +1,9 @@
 {
- "version": "2.1.0",
+ "version": "2.2.0",
  "notes": [
-  "Social: Today's plan -- what to feature, deals days, and Marketplace listings to renew",
-  "Headshots never cropped at the top"
+  "Walkaround videos from your own phone video -- trim it, keep your voice, price at the start, your number at the end"
  ],
- "zip": "ListingAccelerator-2.1.0.zip",
- "sha256": "24c4dbf3332462488e700fa18592e587103cfeb0f8c22f8368aee117ed6afbdf",
+ "zip": "ListingAccelerator-2.2.0.zip",
+ "sha256": "65d69d9aeab558216bce8d1c9cfa854eaf10e3e5b121071331c496754da0b610",
  "critical": false
 }
