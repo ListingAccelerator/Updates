@@ -1,10 +1,10 @@
 {
- "version": "1.8",
+ "version": "1.8.1",
  "notes": [
-  "Walkaround videos with music, a free Windows voice, or both",
-  "Country rock music made for the program, or your own music file"
+  "Walkaround captions read naturally on every website",
+  "Features buyers want come first; tires and wipers last"
  ],
- "zip": "ListingAccelerator-1.8.zip",
- "sha256": "ac046c5ed851b18f7190b62074b907aae6dc11b7403b6a354960aac3d627b6f0",
+ "zip": "ListingAccelerator-1.8.1.zip",
+ "sha256": "807c6fe753b30c69dbfa52815d29ff71071000ef62c6b8d7575fa3218e390d6a",
  "critical": false
 }
