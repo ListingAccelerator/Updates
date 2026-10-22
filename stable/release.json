@@ -1,9 +1,9 @@
 {
- "version": "2.6.0",
- "zip": "ListingAccelerator-2.6.0.zip",
+ "version": "2.7.0",
+ "zip": "ListingAccelerator-2.7.0.zip",
  "notes": [
-  "Integrations button (inventory feed)",
-  "Instructions now have pictures of each screen showing where to click"
+  "Send to dealer CRM: customers go to VinSolutions, DealerSocket, Elead and others as ADF lead emails",
+  "Integrations: dealer CRM leads, AI, inventory feed"
  ],
  "critical": false,
  "published": "2026-10-22"
