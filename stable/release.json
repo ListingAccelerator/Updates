@@ -1,8 +1,8 @@
 {
- "version": "2.8.3",
- "zip": "ListingAccelerator-2.8.3.zip",
+ "version": "2.8.4",
+ "zip": "ListingAccelerator-2.8.4.zip",
  "notes": [
-  "Ad pictures: the logo sits right under the price tag, whole"
+  "Setup asks for your company web page or your used vehicle page"
  ],
  "critical": false,
  "published": "2026-10-22"
