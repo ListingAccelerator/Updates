@@ -1,10 +1,10 @@
 {
- "version": "1.8.1",
+ "version": "1.8.2",
  "notes": [
-  "Walkaround captions read naturally on every website",
-  "Features buyers want come first; tires and wipers last"
+  "Walkaround videos with a voice are tighter: no dead air between photos",
+  "Better captions on every website"
  ],
- "zip": "ListingAccelerator-1.8.1.zip",
- "sha256": "807c6fe753b30c69dbfa52815d29ff71071000ef62c6b8d7575fa3218e390d6a",
+ "zip": "ListingAccelerator-1.8.2.zip",
+ "sha256": "7f0cae09afbc6152d97e99d0819283d176a77696e02c9e2c46932b08eb18f3e8",
  "critical": false
 }
