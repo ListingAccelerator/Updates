@@ -1,8 +1,8 @@
 {
- "version": "2.8.0",
- "zip": "ListingAccelerator-2.8.0.zip",
+ "version": "2.8.1",
+ "zip": "ListingAccelerator-2.8.1.zip",
  "notes": [
-  "Setup: paste the dealership's home page and Test it finds the used inventory page by itself"
+  "Setup's Test it picks the whole used lot, not a filtered link like 'Used under 20,000'"
  ],
  "critical": false,
  "published": "2026-10-22"
