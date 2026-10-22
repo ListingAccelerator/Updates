@@ -1,10 +1,9 @@
 {
- "version": "1.6.1",
+ "version": "1.6.2",
  "notes": [
-  "Paste buttons and a right-click menu in every text box",
-  "Easier AI key steps"
+  "AI replies keep going when Google is busy: retries, then tries another model"
  ],
- "zip": "ListingAccelerator-1.6.1.zip",
- "sha256": "8f4f74f40746f6ff8b643109006d35209fb6abfcd17830baefd9b0061dded330",
+ "zip": "ListingAccelerator-1.6.2.zip",
+ "sha256": "b20a6bfccbf5f7437e37e9b0c4d4e112179f304a6ee2db746c19421529e80e1a",
  "critical": false
 }
