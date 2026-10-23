@@ -1,9 +1,9 @@
 {
- "version": "2.9.0",
- "zip": "ListingAccelerator-2.9.0.zip",
+ "version": "2.9.1",
+ "zip": "ListingAccelerator-2.9.1.zip",
  "notes": [
-  "Social: Use / Don't use buttons for your photo and the logo"
+  "Bring a store over from another computer on a flash drive"
  ],
  "critical": false,
- "published": "2026-10-22"
+ "published": "2026-10-23"
 }
