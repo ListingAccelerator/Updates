@@ -1,9 +1,9 @@
 {
- "version": "2.9.0",
+ "version": "2.9.1",
  "notes": [
-  "Social: Use / Don't use buttons for your photo and the logo"
+  "Bring a store over from another computer on a flash drive"
  ],
- "zip": "ListingAccelerator-2.9.0.zip",
- "sha256": "71f921460cb41bc2005eacf7f0a193329efa32e0110c8100e1a387103209a264",
+ "zip": "ListingAccelerator-2.9.1.zip",
+ "sha256": "90b40195693611e8980660cfa4cce7638d6672a3fa0d3a2c8e4e86b8e1a94ac7",
  "critical": false
 }
