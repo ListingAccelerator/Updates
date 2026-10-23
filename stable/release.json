@@ -1,8 +1,8 @@
 {
- "version": "2.12.9",
- "zip": "ListingAccelerator-2.12.9.zip",
+ "version": "2.12.10",
+ "zip": "ListingAccelerator-2.12.10.zip",
  "notes": [
-  "Chrome helper: full title with stock number in Model"
+  "Posting helper Model line has the full title with stock number"
  ],
  "critical": false,
  "published": "2026-10-23"
