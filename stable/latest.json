@@ -1,9 +1,9 @@
 {
- "version": "2.9.5",
+ "version": "2.9.6",
  "notes": [
-  "Looks for updates every 20 minutes while open"
+  "Go post on every screen"
  ],
- "zip": "ListingAccelerator-2.9.5.zip",
- "sha256": "8f4c781395defff58c7f680f499b1b7327bb85ecb82c8976f44fb7b28106f9f6",
+ "zip": "ListingAccelerator-2.9.6.zip",
+ "sha256": "fadea2bf71e75f41236e78684f5cb935a45780c53cc19c84a29b817d8877b556",
  "critical": false
 }
