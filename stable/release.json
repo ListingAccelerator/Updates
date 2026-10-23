@@ -1,8 +1,8 @@
 {
- "version": "2.9.2",
- "zip": "ListingAccelerator-2.9.2.zip",
+ "version": "2.9.3",
+ "zip": "ListingAccelerator-2.9.3.zip",
  "notes": [
-  "Second store fills in your name and phone; Test it skips Certified Pre-Owned pages"
+  "Go post: every social site one click away"
  ],
  "critical": false,
  "published": "2026-10-23"
