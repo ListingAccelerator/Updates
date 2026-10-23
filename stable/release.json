@@ -1,8 +1,8 @@
 {
- "version": "2.12.0",
- "zip": "ListingAccelerator-2.12.0.zip",
+ "version": "2.12.1",
+ "zip": "ListingAccelerator-2.12.1.zip",
  "notes": [
-  "Chrome helper fills in Facebook's form; manager dashboard"
+  "Chrome helper shows up however you get to Marketplace"
  ],
  "critical": false,
  "published": "2026-10-23"
