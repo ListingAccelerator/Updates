@@ -1,9 +1,9 @@
 {
- "version": "2.9.3",
+ "version": "2.9.4",
  "notes": [
-  "Go post: every social site one click away"
+  "Social: small fixes"
  ],
- "zip": "ListingAccelerator-2.9.3.zip",
- "sha256": "d0548e1f0f0bed98afef2b4c739fa78352d247a3b06bc06459e5abd3ce9f94ec",
+ "zip": "ListingAccelerator-2.9.4.zip",
+ "sha256": "be36d6b92aa6ac8a02fa9466a1a2ff789e4505a66ec211d75e5b238c20ee9aa6",
  "critical": false
 }
