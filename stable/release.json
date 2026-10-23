@@ -1,8 +1,8 @@
 {
- "version": "2.9.3",
- "zip": "ListingAccelerator-2.9.3.zip",
+ "version": "2.9.4",
+ "zip": "ListingAccelerator-2.9.4.zip",
  "notes": [
-  "Go post: every social site one click away"
+  "Social: small fixes"
  ],
  "critical": false,
  "published": "2026-10-23"
