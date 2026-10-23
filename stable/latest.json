@@ -1,9 +1,9 @@
 {
- "version": "2.9.1",
+ "version": "2.9.2",
  "notes": [
-  "Bring a store over from another computer on a flash drive"
+  "Second store fills in your name and phone; Test it skips Certified Pre-Owned pages"
  ],
- "zip": "ListingAccelerator-2.9.1.zip",
- "sha256": "90b40195693611e8980660cfa4cce7638d6672a3fa0d3a2c8e4e86b8e1a94ac7",
+ "zip": "ListingAccelerator-2.9.2.zip",
+ "sha256": "a0c7df99b82d6532ca1cc19b7a6a62e9207c8911e4e031419c5e3d309c11a718",
  "critical": false
 }
