@@ -1,9 +1,9 @@
 {
- "version": "2.9.6",
+ "version": "2.9.7",
  "notes": [
-  "Go post on every screen"
+  "Posting for your own page: a page's daily plan and This or that"
  ],
- "zip": "ListingAccelerator-2.9.6.zip",
- "sha256": "fadea2bf71e75f41236e78684f5cb935a45780c53cc19c84a29b817d8877b556",
+ "zip": "ListingAccelerator-2.9.7.zip",
+ "sha256": "ebb741d9b43363b55fcda60e4327e49a7efb14b3e9fcca8cda18633b5f58f09d",
  "critical": false
 }
