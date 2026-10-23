@@ -1,9 +1,9 @@
 {
- "version": "2.9.8",
+ "version": "2.9.9",
  "notes": [
-  "Today's deals: store name no longer hidden"
+  "Walkaround: captions only for what each photo shows"
  ],
- "zip": "ListingAccelerator-2.9.8.zip",
- "sha256": "36f2bde862531ad2b66b46b389e74d4866dc978a7b06b9ee486ed445a3c5c926",
+ "zip": "ListingAccelerator-2.9.9.zip",
+ "sha256": "c9b2484609e4a6e5f7bae6301703925de342f2d2148b157edbd5edba889b6808",
  "critical": false
 }
