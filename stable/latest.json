@@ -1,9 +1,9 @@
 {
- "version": "2.12.3",
+ "version": "2.12.4",
  "notes": [
-  "Chrome helper box shows on Facebook"
+  "Chrome helper: clearer list, finds posted cars when searched"
  ],
- "zip": "ListingAccelerator-2.12.3.zip",
- "sha256": "9137f7d749980725f0bc18000715a5f0fbf74153322f258c82abc1234cd34c2f",
+ "zip": "ListingAccelerator-2.12.4.zip",
+ "sha256": "d0aac48e2676c545796ab6a197147bf7b399b8fd9c27884e176015222a5f53e3",
  "critical": false
 }
