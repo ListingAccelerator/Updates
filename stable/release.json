@@ -1,8 +1,8 @@
 {
- "version": "2.9.9",
- "zip": "ListingAccelerator-2.9.9.zip",
+ "version": "2.10.0",
+ "zip": "ListingAccelerator-2.10.0.zip",
  "notes": [
-  "Walkaround: captions only for what each photo shows"
+  "Pick your own AI: Copy for AI, Google (free), OpenAI or Claude key"
  ],
  "critical": false,
  "published": "2026-10-23"
