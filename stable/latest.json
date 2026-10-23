@@ -1,9 +1,9 @@
 {
- "version": "2.9.2",
+ "version": "2.9.3",
  "notes": [
-  "Second store fills in your name and phone; Test it skips Certified Pre-Owned pages"
+  "Go post: every social site one click away"
  ],
- "zip": "ListingAccelerator-2.9.2.zip",
- "sha256": "a0c7df99b82d6532ca1cc19b7a6a62e9207c8911e4e031419c5e3d309c11a718",
+ "zip": "ListingAccelerator-2.9.3.zip",
+ "sha256": "d0548e1f0f0bed98afef2b4c739fa78352d247a3b06bc06459e5abd3ce9f94ec",
  "critical": false
 }
