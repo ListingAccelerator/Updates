@@ -1,9 +1,9 @@
 {
- "version": "2.10.1",
+ "version": "2.11.0",
  "notes": [
-  "Instructions: pictures and steps for everything new"
+  "Spanish replies, blur plates, Facebook groups, Craigslist/OfferUp ads, My results, searchable instructions"
  ],
- "zip": "ListingAccelerator-2.10.1.zip",
- "sha256": "f6ce2d0d9efd4306a9ef35c123c18f2441db2992df13f99d99c9988a2e321414",
+ "zip": "ListingAccelerator-2.11.0.zip",
+ "sha256": "f4379fcd7bfa9a389472eab44a9edd096a8fee517c21c6bf44588598a02a4401",
  "critical": false
 }
