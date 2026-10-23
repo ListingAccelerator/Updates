@@ -1,9 +1,9 @@
 {
- "version": "2.9.7",
+ "version": "2.9.8",
  "notes": [
-  "Posting for your own page: a page's daily plan and This or that"
+  "Today's deals: store name no longer hidden"
  ],
- "zip": "ListingAccelerator-2.9.7.zip",
- "sha256": "ebb741d9b43363b55fcda60e4327e49a7efb14b3e9fcca8cda18633b5f58f09d",
+ "zip": "ListingAccelerator-2.9.8.zip",
+ "sha256": "36f2bde862531ad2b66b46b389e74d4866dc978a7b06b9ee486ed445a3c5c926",
  "critical": false
 }
