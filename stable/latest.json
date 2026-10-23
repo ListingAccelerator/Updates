@@ -1,9 +1,9 @@
 {
- "version": "2.9.4",
+ "version": "2.9.5",
  "notes": [
-  "Social: small fixes"
+  "Looks for updates every 20 minutes while open"
  ],
- "zip": "ListingAccelerator-2.9.4.zip",
- "sha256": "be36d6b92aa6ac8a02fa9466a1a2ff789e4505a66ec211d75e5b238c20ee9aa6",
+ "zip": "ListingAccelerator-2.9.5.zip",
+ "sha256": "8f4c781395defff58c7f680f499b1b7327bb85ecb82c8976f44fb7b28106f9f6",
  "critical": false
 }
