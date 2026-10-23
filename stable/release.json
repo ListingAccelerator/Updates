@@ -1,8 +1,8 @@
 {
- "version": "2.12.6",
- "zip": "ListingAccelerator-2.12.6.zip",
+ "version": "2.12.7",
+ "zip": "ListingAccelerator-2.12.7.zip",
  "notes": [
-  "Chrome helper fills the price and description"
+  "Chrome helper searches every store"
  ],
  "critical": false,
  "published": "2026-10-23"
