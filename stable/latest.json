@@ -1,9 +1,9 @@
 {
- "version": "2.12.1",
+ "version": "2.12.2",
  "notes": [
-  "Chrome helper shows up however you get to Marketplace"
+  "Instructions: if the helper's box doesn't show"
  ],
- "zip": "ListingAccelerator-2.12.1.zip",
- "sha256": "494e5f1da20cd83b73d0518bd8f1fff32e446c60496e1a59429b04ce6e270d52",
+ "zip": "ListingAccelerator-2.12.2.zip",
+ "sha256": "9a8f1dc50296dde5cc2831a4fee5583b6581f32e181cf562270911d03d11b72e",
  "critical": false
 }
