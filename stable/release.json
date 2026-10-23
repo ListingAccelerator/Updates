@@ -1,8 +1,8 @@
 {
- "version": "2.12.7",
- "zip": "ListingAccelerator-2.12.7.zip",
+ "version": "2.12.8",
+ "zip": "ListingAccelerator-2.12.8.zip",
  "notes": [
-  "Chrome helper searches every store"
+  "Backgrounds stay off dashboards and close-ups; \u2715 to remove one"
  ],
  "critical": false,
  "published": "2026-10-23"
