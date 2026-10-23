@@ -1,9 +1,9 @@
 {
- "version": "2.11.0",
+ "version": "2.12.0",
  "notes": [
-  "Spanish replies, blur plates, Facebook groups, Craigslist/OfferUp ads, My results, searchable instructions"
+  "Chrome helper fills in Facebook's form; manager dashboard"
  ],
- "zip": "ListingAccelerator-2.11.0.zip",
- "sha256": "f4379fcd7bfa9a389472eab44a9edd096a8fee517c21c6bf44588598a02a4401",
+ "zip": "ListingAccelerator-2.12.0.zip",
+ "sha256": "54efefc581fabb2c7d4b8dfca6aae4170a20e726b47a279d0865b26823024df0",
  "critical": false
 }
