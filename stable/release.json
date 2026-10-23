@@ -1,8 +1,8 @@
 {
- "version": "2.12.4",
- "zip": "ListingAccelerator-2.12.4.zip",
+ "version": "2.12.5",
+ "zip": "ListingAccelerator-2.12.5.zip",
  "notes": [
-  "Chrome helper: clearer list, finds posted cars when searched"
+  "Chrome helper stays up to date and says when it isn't"
  ],
  "critical": false,
  "published": "2026-10-23"
