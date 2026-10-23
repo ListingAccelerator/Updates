@@ -1,8 +1,8 @@
 {
- "version": "2.12.2",
- "zip": "ListingAccelerator-2.12.2.zip",
+ "version": "2.12.3",
+ "zip": "ListingAccelerator-2.12.3.zip",
  "notes": [
-  "Instructions: if the helper's box doesn't show"
+  "Chrome helper box shows on Facebook"
  ],
  "critical": false,
  "published": "2026-10-23"
