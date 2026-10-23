@@ -1,8 +1,8 @@
 {
- "version": "2.12.5",
- "zip": "ListingAccelerator-2.12.5.zip",
+ "version": "2.12.6",
+ "zip": "ListingAccelerator-2.12.6.zip",
  "notes": [
-  "Chrome helper stays up to date and says when it isn't"
+  "Chrome helper fills the price and description"
  ],
  "critical": false,
  "published": "2026-10-23"
