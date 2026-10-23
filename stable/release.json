@@ -1,8 +1,8 @@
 {
- "version": "2.9.4",
- "zip": "ListingAccelerator-2.9.4.zip",
+ "version": "2.9.5",
+ "zip": "ListingAccelerator-2.9.5.zip",
  "notes": [
-  "Social: small fixes"
+  "Looks for updates every 20 minutes while open"
  ],
  "critical": false,
  "published": "2026-10-23"
