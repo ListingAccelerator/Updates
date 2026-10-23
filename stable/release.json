@@ -1,8 +1,8 @@
 {
- "version": "2.9.8",
- "zip": "ListingAccelerator-2.9.8.zip",
+ "version": "2.9.9",
+ "zip": "ListingAccelerator-2.9.9.zip",
  "notes": [
-  "Today's deals: store name no longer hidden"
+  "Walkaround: captions only for what each photo shows"
  ],
  "critical": false,
  "published": "2026-10-23"
