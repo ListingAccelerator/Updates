@@ -1,0 +1,10 @@
+{
+ "_note": "Links behind the Get-a-key and Open-my-AI buttons in Listing Accelerator. Change one here (https only) and every copy picks it up -- no new version needed. Put a referral or partner link here if you get one.",
+ "gemini_key": "https://aistudio.google.com/apikey",
+ "openai_key": "https://platform.openai.com/api-keys",
+ "claude_key": "https://console.anthropic.com/settings/keys",
+ "chatgpt": "https://chatgpt.com/",
+ "claude": "https://claude.ai/new",
+ "gemini": "https://gemini.google.com/app",
+ "copilot": "https://copilot.microsoft.com/"
+}
