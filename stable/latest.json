@@ -1,9 +1,9 @@
 {
- "version": "2.10.0",
+ "version": "2.10.1",
  "notes": [
-  "Pick your own AI: Copy for AI, Google (free), OpenAI or Claude key"
+  "Instructions: pictures and steps for everything new"
  ],
- "zip": "ListingAccelerator-2.10.0.zip",
- "sha256": "ea724c0862755c7c63b31ec11fe6911264837c6ff251d1251260ba5397a6b42f",
+ "zip": "ListingAccelerator-2.10.1.zip",
+ "sha256": "f6ce2d0d9efd4306a9ef35c123c18f2441db2992df13f99d99c9988a2e321414",
  "critical": false
 }
