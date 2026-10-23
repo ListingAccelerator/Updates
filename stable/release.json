@@ -1,8 +1,8 @@
 {
- "version": "2.12.8",
- "zip": "ListingAccelerator-2.12.8.zip",
+ "version": "2.12.9",
+ "zip": "ListingAccelerator-2.12.9.zip",
  "notes": [
-  "Backgrounds stay off dashboards and close-ups; \u2715 to remove one"
+  "Chrome helper: full title with stock number in Model"
  ],
  "critical": false,
  "published": "2026-10-23"
