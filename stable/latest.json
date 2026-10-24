@@ -1,9 +1,12 @@
 {
- "version": "2.12.10",
+ "version": "2.13.0",
  "notes": [
-  "Posting helper Model line has the full title with stock number"
+  "Find a car: search every store's whole used lot by year, make, model or type, price, payment, miles and options",
+  "Save a search on a customer and get told when a matching car comes in",
+  "Put a found car on a customer's card; trade-in, deal numbers, saved quotes and a one-page deal sheet",
+  "Deal numbers, and a manager PIN switch to turn the deal desk on or off"
  ],
- "zip": "ListingAccelerator-2.12.10.zip",
- "sha256": "5c4b0cb0bc5eec28efe5d32c0f84f768dc3843d9915bea3026fa73014f69c220",
+ "zip": "ListingAccelerator-2.13.0.zip",
+ "sha256": "813ebc6818305c9692f1a3d2e7061d34ae5864de76df5ab9d868b5abd2dd18c4",
  "critical": false
 }
