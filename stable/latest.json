@@ -1,11 +1,9 @@
 {
- "version": "2.17.0",
+ "version": "2.18.0",
  "notes": [
-  "A website that blocks programs: three ways to get the store's cars (Chrome helper, inventory file, feed)",
-  "Chrome helper 1.2: read the store's inventory page in your own Chrome with one click",
-  "Titles that start with Used / Pre-Owned / Certified now read correctly"
+  "Chrome helper 1.3: the Spotter marks posts from people shopping for a vehicle in your groups, shows your cars that fit, and writes the comment"
  ],
- "zip": "ListingAccelerator-2.17.0.zip",
- "sha256": "14e65da48f87de8a3281d7dd0a6d20c4d9eedce438a4d6214b4aa3f46f827c0a",
+ "zip": "ListingAccelerator-2.18.0.zip",
+ "sha256": "b346fad162a638ccafc042306c17f3134fe03f8dbc27c457087c29e8c93caffe",
  "critical": false
 }
