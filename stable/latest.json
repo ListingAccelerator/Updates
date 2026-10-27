@@ -1,9 +1,12 @@
 {
- "version": "2.15.0",
+ "version": "2.16.0",
  "notes": [
-  "Decode the trade's VIN: year, make, model, trim and details fill in on the customer's card"
+  "Chrome helper 1.1: answer buyers in the chat with one click and set the appointment (saves them in the CRM)",
+  "Chrome helper: Your listings records what's posted and marks sold and price drops; price drops on the Edit page; Find; groups",
+  "Quick answers on the customer's card, in your own words",
+  "Customer details in separate boxes (first, last, phone, email, street, city, state, zip) and a customer search bar"
  ],
- "zip": "ListingAccelerator-2.15.0.zip",
- "sha256": "a351c6883fcc7c629dc963b6c5c2b1839141dda07610a2cd00c154a566ca3894",
+ "zip": "ListingAccelerator-2.16.0.zip",
+ "sha256": "39b548efa17f756129534d28f8ea02cad20c1a2913add7cc1534a77a63dc82d9",
  "critical": false
 }
