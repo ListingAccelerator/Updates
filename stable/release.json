@@ -1,12 +1,10 @@
 {
- "version": "2.13.0",
- "zip": "ListingAccelerator-2.13.0.zip",
+ "version": "2.14.0",
+ "zip": "ListingAccelerator-2.14.0.zip",
  "notes": [
-  "Find a car: search every store's whole used lot by year, make, model or type, price, payment, miles and options",
-  "Save a search on a customer and get told when a matching car comes in",
-  "Put a found car on a customer's card; trade-in, deal numbers, saved quotes and a one-page deal sheet",
-  "Deal numbers, and a manager PIN switch to turn the deal desk on or off"
+  "Add to my cars: type a stock number (or press it on a search result or a customer's card) and get all its photos, ad and posting helper now, even for a car outside what you work",
+  "Open photos when it's done, to drag the pictures into the Facebook chat"
  ],
  "critical": false,
- "published": "2026-10-24"
+ "published": "2026-10-27"
 }
