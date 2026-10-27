@@ -1,10 +1,9 @@
 {
- "version": "2.14.0",
+ "version": "2.15.0",
  "notes": [
-  "Add to my cars: type a stock number (or press it on a search result or a customer's card) and get all its photos, ad and posting helper now, even for a car outside what you work",
-  "Open photos when it's done, to drag the pictures into the Facebook chat"
+  "Decode the trade's VIN: year, make, model, trim and details fill in on the customer's card"
  ],
- "zip": "ListingAccelerator-2.14.0.zip",
- "sha256": "c29d18c8a6f2436d8ede4a72f3699478a1a83bca942ffaa6ec19711a7c4ce80b",
+ "zip": "ListingAccelerator-2.15.0.zip",
+ "sha256": "a351c6883fcc7c629dc963b6c5c2b1839141dda07610a2cd00c154a566ca3894",
  "critical": false
 }
