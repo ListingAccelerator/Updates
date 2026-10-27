@@ -1,9 +1,8 @@
 {
- "version": "2.14.0",
- "zip": "ListingAccelerator-2.14.0.zip",
+ "version": "2.15.0",
+ "zip": "ListingAccelerator-2.15.0.zip",
  "notes": [
-  "Add to my cars: type a stock number (or press it on a search result or a customer's card) and get all its photos, ad and posting helper now, even for a car outside what you work",
-  "Open photos when it's done, to drag the pictures into the Facebook chat"
+  "Decode the trade's VIN: year, make, model, trim and details fill in on the customer's card"
  ],
  "critical": false,
  "published": "2026-10-27"
