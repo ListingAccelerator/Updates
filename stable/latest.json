@@ -1,9 +1,9 @@
 {
- "version": "2.19.5",
+ "version": "2.19.6",
  "notes": [
-  "Chrome helper 1.3.7: buyer name reads Arlene, not Conversation titled Arlene"
+  "Setup screen: Full name instead of Name as it should appear"
  ],
- "zip": "ListingAccelerator-2.19.5.zip",
- "sha256": "3a39d0046e2e18dbf1d1177cf76fbe967321c0dd0a06c64bca30d7942846e994",
+ "zip": "ListingAccelerator-2.19.6.zip",
+ "sha256": "0a607e9b1dd9ef303b597f8c0ef62561bf3b862d293a7dd1edb52cdd4cc9f5f3",
  "critical": false
 }
