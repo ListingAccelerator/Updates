@@ -1,8 +1,8 @@
 {
- "version": "2.19.3",
- "zip": "ListingAccelerator-2.19.3.zip",
+ "version": "2.19.4",
+ "zip": "ListingAccelerator-2.19.4.zip",
  "notes": [
-  "Chrome helper 1.3.5: Replies fills in the buyer's first name from the chat header"
+  "Chrome helper 1.3.6: fixing a misspelled buyer name works and updates the same CRM customer"
  ],
  "critical": false,
  "published": "2026-10-28"
