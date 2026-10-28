@@ -1,8 +1,8 @@
 {
- "version": "2.18.5",
- "zip": "ListingAccelerator-2.18.5.zip",
+ "version": "2.18.6",
+ "zip": "ListingAccelerator-2.18.6.zip",
  "notes": [
-  "CarFax button in What I sent; links show as a short Open button"
+  "CarFax link read for every car: + CarFax on the customer card and a Send the CarFax quick answer"
  ],
  "critical": false,
  "published": "2026-10-28"
