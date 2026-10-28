@@ -1,8 +1,8 @@
 {
- "version": "2.18.9",
- "zip": "ListingAccelerator-2.18.9.zip",
+ "version": "2.19.0",
+ "zip": "ListingAccelerator-2.19.0.zip",
  "notes": [
-  "Chrome helper 1.3.4: typing a stock number in Replies works again"
+  "Support button: send a message and screenshot to support@automotivesalesaccelerator.com"
  ],
  "critical": false,
  "published": "2026-10-28"
