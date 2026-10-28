@@ -1,8 +1,8 @@
 {
- "version": "2.19.2",
- "zip": "ListingAccelerator-2.19.2.zip",
+ "version": "2.19.3",
+ "zip": "ListingAccelerator-2.19.3.zip",
  "notes": [
-  "Support: Get live help opens Quick Assist with the steps"
+  "Chrome helper 1.3.5: Replies fills in the buyer's first name from the chat header"
  ],
  "critical": false,
  "published": "2026-10-28"
