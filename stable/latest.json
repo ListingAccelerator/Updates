@@ -1,9 +1,9 @@
 {
- "version": "2.18.7",
+ "version": "2.18.8",
  "notes": [
-  "+ CarFax reads the link from the store's website on the spot if it isn't saved yet"
+  "Instructions now cover CarFax and the Spotter on search results"
  ],
- "zip": "ListingAccelerator-2.18.7.zip",
- "sha256": "047c4acc9150c4451ec538e55fedcd9daabc8834a79fe6cca613ca816d9bdf87",
+ "zip": "ListingAccelerator-2.18.8.zip",
+ "sha256": "977a7102956a8a7d67d94264b4caec3b703bbb543f3703b9e91e3a40d5d32275",
  "critical": false
 }
