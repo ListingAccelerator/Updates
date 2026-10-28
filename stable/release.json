@@ -1,8 +1,8 @@
 {
- "version": "2.19.4",
- "zip": "ListingAccelerator-2.19.4.zip",
+ "version": "2.19.5",
+ "zip": "ListingAccelerator-2.19.5.zip",
  "notes": [
-  "Chrome helper 1.3.6: fixing a misspelled buyer name works and updates the same CRM customer"
+  "Chrome helper 1.3.7: buyer name reads Arlene, not Conversation titled Arlene"
  ],
  "critical": false,
  "published": "2026-10-28"
