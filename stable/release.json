@@ -1,9 +1,9 @@
 {
- "version": "2.18.3",
- "zip": "ListingAccelerator-2.18.3.zip",
+ "version": "2.18.4",
+ "zip": "ListingAccelerator-2.18.4.zip",
  "notes": [
-  "Spotter catches more ways people ask for a vehicle"
+  "Fixes cars showing as both sold and not posted when the website uses small letters in the stock number"
  ],
  "critical": false,
- "published": "2026-10-27"
+ "published": "2026-10-28"
 }
