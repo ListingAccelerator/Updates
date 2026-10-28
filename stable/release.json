@@ -1,8 +1,8 @@
 {
- "version": "2.18.2",
- "zip": "ListingAccelerator-2.18.2.zip",
+ "version": "2.18.3",
+ "zip": "ListingAccelerator-2.18.3.zip",
  "notes": [
-  "Spotter now works on Facebook search results, not just groups"
+  "Spotter catches more ways people ask for a vehicle"
  ],
  "critical": false,
  "published": "2026-10-27"
