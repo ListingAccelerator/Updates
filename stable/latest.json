@@ -1,9 +1,9 @@
 {
- "version": "2.19.1",
+ "version": "2.19.2",
  "notes": [
-  "Support sends straight to support@automotivesalesaccelerator.com"
+  "Support: Get live help opens Quick Assist with the steps"
  ],
- "zip": "ListingAccelerator-2.19.1.zip",
- "sha256": "9bbee124ab56bb453a1c123754063920ba087884868bf96ed9d621aae6e23d7f",
+ "zip": "ListingAccelerator-2.19.2.zip",
+ "sha256": "4cb8231fa41f97e7ff1473384d5e507c0a272b1cfdd114f70ea723a8df6c2c6c",
  "critical": false
 }
