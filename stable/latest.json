@@ -1,9 +1,9 @@
 {
- "version": "2.19.0",
+ "version": "2.19.1",
  "notes": [
-  "Support button: send a message and screenshot to support@automotivesalesaccelerator.com"
+  "Support sends straight to support@automotivesalesaccelerator.com"
  ],
- "zip": "ListingAccelerator-2.19.0.zip",
- "sha256": "51155a76b2db0410555163989afd07821b3b837f894e14a1faabfbfdfdf2e01c",
+ "zip": "ListingAccelerator-2.19.1.zip",
+ "sha256": "9bbee124ab56bb453a1c123754063920ba087884868bf96ed9d621aae6e23d7f",
  "critical": false
 }
