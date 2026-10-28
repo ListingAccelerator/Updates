@@ -1,8 +1,8 @@
 {
- "version": "2.18.4",
- "zip": "ListingAccelerator-2.18.4.zip",
+ "version": "2.18.5",
+ "zip": "ListingAccelerator-2.18.5.zip",
  "notes": [
-  "Fixes cars showing as both sold and not posted when the website uses small letters in the stock number"
+  "CarFax button in What I sent; links show as a short Open button"
  ],
  "critical": false,
  "published": "2026-10-28"
