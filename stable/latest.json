@@ -1,9 +1,9 @@
 {
- "version": "2.18.6",
+ "version": "2.18.7",
  "notes": [
-  "CarFax link read for every car: + CarFax on the customer card and a Send the CarFax quick answer"
+  "+ CarFax reads the link from the store's website on the spot if it isn't saved yet"
  ],
- "zip": "ListingAccelerator-2.18.6.zip",
- "sha256": "d0dbb8890d501b7cd34d33e0fe1304cb3012229fdc602408a8a80b5841f7225e",
+ "zip": "ListingAccelerator-2.18.7.zip",
+ "sha256": "047c4acc9150c4451ec538e55fedcd9daabc8834a79fe6cca613ca816d9bdf87",
  "critical": false
 }
