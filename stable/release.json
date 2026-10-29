@@ -1,8 +1,8 @@
 {
- "version": "2.21.9",
- "zip": "ListingAccelerator-2.21.9.zip",
+ "version": "2.22.0",
+ "zip": "ListingAccelerator-2.22.0.zip",
  "notes": [
-  "A store's Certified search page marks every car Certified"
+  "Certified stamp on ads and walkaround videos; mark a car Certified by hand; changed store address no longer blocks the run"
  ],
  "critical": false,
  "published": "2026-10-29"
