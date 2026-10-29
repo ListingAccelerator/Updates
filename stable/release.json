@@ -1,9 +1,9 @@
 {
- "version": "2.19.6",
- "zip": "ListingAccelerator-2.19.6.zip",
+ "version": "2.19.7",
+ "zip": "ListingAccelerator-2.19.7.zip",
  "notes": [
-  "Setup screen: Full name instead of Name as it should appear"
+  "Backgrounds: the store's canopy sign is removed from the picture, preview and final"
  ],
  "critical": false,
- "published": "2026-10-28"
+ "published": "2026-10-29"
 }
