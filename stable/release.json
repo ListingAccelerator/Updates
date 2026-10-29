@@ -1,8 +1,8 @@
 {
- "version": "2.21.3",
- "zip": "ListingAccelerator-2.21.3.zip",
+ "version": "2.21.4",
+ "zip": "ListingAccelerator-2.21.4.zip",
  "notes": [
-  "Fix: stores like Victory Toyota read every page, not just the first"
+  "Store addresses copied from an ad work (tracking tags removed)"
  ],
  "critical": false,
  "published": "2026-10-29"
