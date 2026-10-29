@@ -1,9 +1,9 @@
 {
- "version": "2.21.0",
+ "version": "2.21.1",
  "notes": [
-  "Social: my own style, holiday packs and add-ins; five new free music styles"
+  "Backgrounds: no gray blocks on the windows; remove your own photos from Social"
  ],
- "zip": "ListingAccelerator-2.21.0.zip",
- "sha256": "92db26e6bbedc9a5e028249fb02bb860cb44671c7dd93bdc930d2b2d3a1aa213",
+ "zip": "ListingAccelerator-2.21.1.zip",
+ "sha256": "53b425c56c5c91b8a3ff990b2f8898d6a5e0b4e633157b153095deb4cfa44eaa",
  "critical": false
 }
