@@ -1,8 +1,8 @@
 {
- "version": "2.21.7",
- "zip": "ListingAccelerator-2.21.7.zip",
+ "version": "2.21.8",
+ "zip": "ListingAccelerator-2.21.8.zip",
  "notes": [
-  "What you work: Certified can be picked on a new store"
+  "Certified cars found from their badge pictures"
  ],
  "critical": false,
  "published": "2026-10-29"
