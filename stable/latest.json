@@ -1,9 +1,9 @@
 {
- "version": "2.21.4",
+ "version": "2.21.5",
  "notes": [
-  "Store addresses copied from an ad work (tracking tags removed)"
+  "Big group websites go ahead when What you work narrows them"
  ],
- "zip": "ListingAccelerator-2.21.4.zip",
- "sha256": "9aced327a31fc397d908755e0edea037b22e776839cf7da06dca9a11f9996dab",
+ "zip": "ListingAccelerator-2.21.5.zip",
+ "sha256": "f5fbce2514349bb87b51df6ce0873f0e10fa7237810ad08b2e8787c67f3643f7",
  "critical": false
 }
