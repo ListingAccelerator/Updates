@@ -1,9 +1,9 @@
 {
- "version": "2.21.5",
+ "version": "2.21.6",
  "notes": [
-  "Big group websites go ahead when What you work narrows them"
+  "Big group websites: read every page, size check counts only the cars you work"
  ],
- "zip": "ListingAccelerator-2.21.5.zip",
- "sha256": "f5fbce2514349bb87b51df6ce0873f0e10fa7237810ad08b2e8787c67f3643f7",
+ "zip": "ListingAccelerator-2.21.6.zip",
+ "sha256": "27a8e74f7ab7524979880f5476041a2f5719b53e0b6dbe323da62a15dbfaf5df",
  "critical": false
 }
