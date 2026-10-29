@@ -1,8 +1,8 @@
 {
- "version": "2.21.2",
- "zip": "ListingAccelerator-2.21.2.zip",
+ "version": "2.21.3",
+ "zip": "ListingAccelerator-2.21.3.zip",
  "notes": [
-  "Walkaround video for the company page (store name, phone and website at the end)"
+  "Fix: stores like Victory Toyota read every page, not just the first"
  ],
  "critical": false,
  "published": "2026-10-29"
