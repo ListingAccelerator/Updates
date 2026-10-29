@@ -1,9 +1,9 @@
 {
- "version": "2.21.7",
+ "version": "2.21.8",
  "notes": [
-  "What you work: Certified can be picked on a new store"
+  "Certified cars found from their badge pictures"
  ],
- "zip": "ListingAccelerator-2.21.7.zip",
- "sha256": "bedaf958ae4f703f819751d87992cac6e1bb0a6cf762a80e79d4b9ab8c947a1f",
+ "zip": "ListingAccelerator-2.21.8.zip",
+ "sha256": "c240bc758af6daedea75201bbed99976f3e39e1d1a9e4955b46195eb0461358f",
  "critical": false
 }
