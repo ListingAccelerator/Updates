@@ -1,9 +1,9 @@
 {
- "version": "2.21.1",
+ "version": "2.21.2",
  "notes": [
-  "Backgrounds: no gray blocks on the windows; remove your own photos from Social"
+  "Walkaround video for the company page (store name, phone and website at the end)"
  ],
- "zip": "ListingAccelerator-2.21.1.zip",
- "sha256": "53b425c56c5c91b8a3ff990b2f8898d6a5e0b4e633157b153095deb4cfa44eaa",
+ "zip": "ListingAccelerator-2.21.2.zip",
+ "sha256": "12a6fb4989534ff9be287b9e9d0f97a76fdae59e5893d805ce15f0b69002f470",
  "critical": false
 }
