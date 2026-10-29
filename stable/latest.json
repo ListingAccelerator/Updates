@@ -1,9 +1,9 @@
 {
- "version": "2.21.8",
+ "version": "2.21.9",
  "notes": [
-  "Certified cars found from their badge pictures"
+  "A store's Certified search page marks every car Certified"
  ],
- "zip": "ListingAccelerator-2.21.8.zip",
- "sha256": "c240bc758af6daedea75201bbed99976f3e39e1d1a9e4955b46195eb0461358f",
+ "zip": "ListingAccelerator-2.21.9.zip",
+ "sha256": "70cbf406597122bad06f1f1375d4c8387f4cb2280dbb41a31e92f9b6e135b7ac",
  "critical": false
 }
