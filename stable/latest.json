@@ -1,9 +1,9 @@
 {
- "version": "2.21.3",
+ "version": "2.21.4",
  "notes": [
-  "Fix: stores like Victory Toyota read every page, not just the first"
+  "Store addresses copied from an ad work (tracking tags removed)"
  ],
- "zip": "ListingAccelerator-2.21.3.zip",
- "sha256": "32a861dc9e2bb4529ba5e15a9c86a29f877cdeb94574302a86725cba8a593b26",
+ "zip": "ListingAccelerator-2.21.4.zip",
+ "sha256": "9aced327a31fc397d908755e0edea037b22e776839cf7da06dca9a11f9996dab",
  "critical": false
 }
