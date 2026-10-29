@@ -1,9 +1,9 @@
 {
- "version": "2.21.6",
+ "version": "2.21.7",
  "notes": [
-  "Big group websites: read every page, size check counts only the cars you work"
+  "What you work: Certified can be picked on a new store"
  ],
- "zip": "ListingAccelerator-2.21.6.zip",
- "sha256": "27a8e74f7ab7524979880f5476041a2f5719b53e0b6dbe323da62a15dbfaf5df",
+ "zip": "ListingAccelerator-2.21.7.zip",
+ "sha256": "bedaf958ae4f703f819751d87992cac6e1bb0a6cf762a80e79d4b9ab8c947a1f",
  "critical": false
 }
