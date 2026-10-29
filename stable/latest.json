@@ -1,9 +1,9 @@
 {
- "version": "2.19.7",
+ "version": "2.20.0",
  "notes": [
-  "Backgrounds: the store's canopy sign is removed from the picture, preview and final"
+  "From my phone: send photos and videos from your phone by scanning a QR code"
  ],
- "zip": "ListingAccelerator-2.19.7.zip",
- "sha256": "3cf9be8f2818e38dd7882c3684db6ead7a8eeb536b1f44230156cf627320b4db",
+ "zip": "ListingAccelerator-2.20.0.zip",
+ "sha256": "3880e9f05e519eab4eb97522a4b1e87348bbc7576a4a46b6953b8eca1ba0fd6a",
  "critical": false
 }
