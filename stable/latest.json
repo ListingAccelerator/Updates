@@ -1,9 +1,9 @@
 {
- "version": "2.20.0",
+ "version": "2.20.1",
  "notes": [
-  "From my phone: send photos and videos from your phone by scanning a QR code"
+  "From my phone: a second way through OneDrive, iCloud or Google Drive that works on any network"
  ],
- "zip": "ListingAccelerator-2.20.0.zip",
- "sha256": "3880e9f05e519eab4eb97522a4b1e87348bbc7576a4a46b6953b8eca1ba0fd6a",
+ "zip": "ListingAccelerator-2.20.1.zip",
+ "sha256": "5759d4ba0302a59bd6996f91d69a2013731023fda110ff2a44af703347d53b87",
  "critical": false
 }
