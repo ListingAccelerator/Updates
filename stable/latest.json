@@ -1,9 +1,9 @@
 {
- "version": "2.22.0",
+ "version": "2.22.1",
  "notes": [
-  "Certified stamp on ads and walkaround videos; mark a car Certified by hand; changed store address no longer blocks the run"
+  "Deal desk and the chat payment answer start off; a manager turns them on with a PIN"
  ],
- "zip": "ListingAccelerator-2.22.0.zip",
- "sha256": "4ac8d96bc10741c7be1ef047153f3e7294a61ae8ca912cb82f92354bc849e9a3",
+ "zip": "ListingAccelerator-2.22.1.zip",
+ "sha256": "484fb7f3c08f059c038a6669494faf1c00d68e74f198579fac963b35d9277f33",
  "critical": false
 }
