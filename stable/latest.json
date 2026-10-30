@@ -1,9 +1,9 @@
 {
- "version": "2.23.0",
+ "version": "2.23.1",
  "notes": [
-  "Sold cars in Replies (Sold \u2013 offer another, sold answers), add your own quick answers; helper 1.3.8"
+  "Helper Post tab finds any stock number at any store and offers Add to my cars; helper 1.3.9"
  ],
- "zip": "ListingAccelerator-2.23.0.zip",
- "sha256": "1832d794cc142cd7f64209dfd94ca6011ac06acaa9595f99902d988eea41425a",
+ "zip": "ListingAccelerator-2.23.1.zip",
+ "sha256": "0b3e07913bc2524d4ffe8e78fd4efb0d7e6cae86429df4705f75ebc0bb4c9aed",
  "critical": false
 }
