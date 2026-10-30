@@ -1,9 +1,9 @@
 {
- "version": "2.22.2",
+ "version": "2.23.0",
  "notes": [
-  "Copy CRM notes with one click; highlight and copy words anywhere in the program"
+  "Sold cars in Replies (Sold \u2013 offer another, sold answers), add your own quick answers; helper 1.3.8"
  ],
- "zip": "ListingAccelerator-2.22.2.zip",
- "sha256": "85e6dd586419a0da33ed9c677df3818297fb017ecdbf6abe1320c8f82bc0120c",
+ "zip": "ListingAccelerator-2.23.0.zip",
+ "sha256": "1832d794cc142cd7f64209dfd94ca6011ac06acaa9595f99902d988eea41425a",
  "critical": false
 }
