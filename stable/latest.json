@@ -1,9 +1,9 @@
 {
- "version": "2.22.1",
+ "version": "2.22.2",
  "notes": [
-  "Deal desk and the chat payment answer start off; a manager turns them on with a PIN"
+  "Copy CRM notes with one click; highlight and copy words anywhere in the program"
  ],
- "zip": "ListingAccelerator-2.22.1.zip",
- "sha256": "484fb7f3c08f059c038a6669494faf1c00d68e74f198579fac963b35d9277f33",
+ "zip": "ListingAccelerator-2.22.2.zip",
+ "sha256": "85e6dd586419a0da33ed9c677df3818297fb017ecdbf6abe1320c8f82bc0120c",
  "critical": false
 }
