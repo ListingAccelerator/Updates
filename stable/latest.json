@@ -1,9 +1,9 @@
 {
- "version": "2.23.2",
+ "version": "2.24.0",
  "notes": [
-  "Spotter finds each post by its ... menu on search results; helper 1.4.0"
+  "Manager dashboard: weekly productivity and Needs attention; manager access to work salespeople's customers (locked copy in the store's shared folder)"
  ],
- "zip": "ListingAccelerator-2.23.2.zip",
- "sha256": "6ec54ed6f2112c4b444c6162428a7a69a78094977ee83f98afcdb47b9d82c6b8",
+ "zip": "ListingAccelerator-2.24.0.zip",
+ "sha256": "a110025094d3e666782b808df1ed4748ee3c234791021c9e953301559b113b19",
  "critical": false
 }
