@@ -1,9 +1,9 @@
 {
- "version": "2.23.2",
- "zip": "ListingAccelerator-2.23.2.zip",
+ "version": "2.24.0",
+ "zip": "ListingAccelerator-2.24.0.zip",
  "notes": [
-  "Spotter finds each post by its ... menu on search results; helper 1.4.0"
+  "Manager dashboard: weekly productivity and Needs attention; manager access to work salespeople's customers (locked copy in the store's shared folder)"
  ],
  "critical": false,
- "published": "2026-10-30"
+ "published": "2026-10-31"
 }
