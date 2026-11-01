@@ -1,11 +1,9 @@
 {
- "version": "2.25.0",
- "zip": "ListingAccelerator-2.25.0.zip",
+ "version": "2.25.1",
+ "zip": "ListingAccelerator-2.25.1.zip",
  "notes": [
-  "Keys: the program turns on with your key, shows days left, and goes read-only (nothing deleted) when a key ends",
-  "Only a manager's key opens the Manager dashboard",
-  "Beta copies send a daily count only, never customer information"
+  "Each salesperson's ads now get their own emojis and line order, so the same car doesn't look copied across a store"
  ],
  "critical": false,
- "published": "2026-10-31"
+ "published": "2026-11-01"
 }
