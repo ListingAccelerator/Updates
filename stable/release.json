@@ -1,8 +1,8 @@
 {
- "version": "2.25.6",
- "zip": "ListingAccelerator-2.25.6.zip",
+ "version": "2.25.7",
+ "zip": "ListingAccelerator-2.25.7.zip",
  "notes": [
-  "Chrome helper now refreshes itself after updates: no more reload arrow or F5 (press the reload arrow one last time after this update)"
+  "Cleaner vehicle names: stray quote marks from some dealer sites removed"
  ],
  "critical": false,
  "published": "2026-11-02"
