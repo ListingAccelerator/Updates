@@ -1,9 +1,9 @@
 {
- "version": "2.25.3",
+ "version": "2.25.4",
  "notes": [
-  "Chrome helper: fixes 'Could not load icon' when adding the helper on a new computer"
+  "Install help: a clear message when Python is missing or too new, and which one to get"
  ],
- "zip": "ListingAccelerator-2.25.3.zip",
- "sha256": "40812ba525e1c1091bc9de5a7d2eedcc802de0b4e943eb086b845e587eb723c8",
+ "zip": "ListingAccelerator-2.25.4.zip",
+ "sha256": "6231d50fb7544edc4fdb620002435896c6d4c009955b980d81f628943287d9fe",
  "critical": false
 }
