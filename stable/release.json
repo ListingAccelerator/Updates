@@ -1,8 +1,9 @@
 {
- "version": "2.25.1",
- "zip": "ListingAccelerator-2.25.1.zip",
+ "version": "2.25.2",
+ "zip": "ListingAccelerator-2.25.2.zip",
  "notes": [
-  "Each salesperson's ads now get their own emojis and line order, so the same car doesn't look copied across a store"
+  "Price safety check: a discount or payment on a dealer's site is never used as the car's price",
+  "Clear message when the website address is the dealer's home page instead of the used-cars page"
  ],
  "critical": false,
  "published": "2026-11-01"
