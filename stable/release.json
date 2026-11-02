@@ -1,8 +1,8 @@
 {
- "version": "2.25.5",
- "zip": "ListingAccelerator-2.25.5.zip",
+ "version": "2.25.6",
+ "zip": "ListingAccelerator-2.25.6.zip",
  "notes": [
-  "Install: Python downloads and installs itself on a computer that doesn't have it"
+  "Chrome helper now refreshes itself after updates: no more reload arrow or F5 (press the reload arrow one last time after this update)"
  ],
  "critical": false,
  "published": "2026-11-02"
