@@ -1,9 +1,9 @@
 {
- "version": "2.25.4",
+ "version": "2.25.5",
  "notes": [
-  "Install help: a clear message when Python is missing or too new, and which one to get"
+  "Install: Python downloads and installs itself on a computer that doesn't have it"
  ],
- "zip": "ListingAccelerator-2.25.4.zip",
- "sha256": "6231d50fb7544edc4fdb620002435896c6d4c009955b980d81f628943287d9fe",
+ "zip": "ListingAccelerator-2.25.5.zip",
+ "sha256": "93cfdbd2311bc606a5aa4b4468334b98474ad57b88d5a14d234631686df9eb59",
  "critical": false
 }
