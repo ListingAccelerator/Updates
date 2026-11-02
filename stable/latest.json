@@ -1,9 +1,9 @@
 {
- "version": "2.25.7",
+ "version": "2.25.8",
  "notes": [
-  "Cleaner vehicle names: stray quote marks from some dealer sites removed"
+  "Install: uses its own Python 3.14 when the computer's Python is too old or too new"
  ],
- "zip": "ListingAccelerator-2.25.7.zip",
- "sha256": "af86f6177915c38704a187ed98414a1531ad2d9954efac89d3e07008b7e92404",
+ "zip": "ListingAccelerator-2.25.8.zip",
+ "sha256": "565667650f3822748135990259558533d59fa928b2a3bb94fdf28255e433312b",
  "critical": false
 }
