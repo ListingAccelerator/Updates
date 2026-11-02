@@ -1,10 +1,9 @@
 {
- "version": "2.25.2",
+ "version": "2.25.3",
  "notes": [
-  "Price safety check: a discount or payment on a dealer's site is never used as the car's price",
-  "Clear message when the website address is the dealer's home page instead of the used-cars page"
+  "Chrome helper: fixes 'Could not load icon' when adding the helper on a new computer"
  ],
- "zip": "ListingAccelerator-2.25.2.zip",
- "sha256": "8e8e8c2cdf832579300317d1744257b724a177ec7fd9137c028c55dc81e1b8ce",
+ "zip": "ListingAccelerator-2.25.3.zip",
+ "sha256": "40812ba525e1c1091bc9de5a7d2eedcc802de0b4e943eb086b845e587eb723c8",
  "critical": false
 }
