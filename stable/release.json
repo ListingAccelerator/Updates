@@ -1,10 +1,9 @@
 {
- "version": "2.25.9",
- "zip": "ListingAccelerator-2.25.9.zip",
+ "version": "2.25.10",
+ "zip": "ListingAccelerator-2.25.10.zip",
  "notes": [
-  "One-file installer (Setup Listing Accelerator.exe)",
-  "A store set to the dealer's home page finds its used-cars page by itself",
-  "Team members join the 'Listing Accelerator Team' OneDrive folder automatically"
+  "Fixes downloads (backgrounds, updates) on company networks that check secure connections",
+  "Updates now keep the Start Listing Accelerator file current"
  ],
  "critical": false,
  "published": "2026-11-03"
