@@ -1,9 +1,11 @@
 {
- "version": "2.25.8",
+ "version": "2.25.9",
  "notes": [
-  "Install: uses its own Python 3.14 when the computer's Python is too old or too new"
+  "One-file installer (Setup Listing Accelerator.exe)",
+  "A store set to the dealer's home page finds its used-cars page by itself",
+  "Team members join the 'Listing Accelerator Team' OneDrive folder automatically"
  ],
- "zip": "ListingAccelerator-2.25.8.zip",
- "sha256": "565667650f3822748135990259558533d59fa928b2a3bb94fdf28255e433312b",
+ "zip": "ListingAccelerator-2.25.9.zip",
+ "sha256": "03e764ad6d281a3d1aa508cf67bef15adae29db84bde82d53227f4f2eb8e24f4",
  "critical": false
 }
