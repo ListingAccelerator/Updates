@@ -1,9 +1,8 @@
 {
- "version": "2.25.10",
- "zip": "ListingAccelerator-2.25.10.zip",
+ "version": "2.25.11",
+ "zip": "ListingAccelerator-2.25.11.zip",
  "notes": [
-  "Fixes downloads (backgrounds, updates) on company networks that check secure connections",
-  "Updates now keep the Start Listing Accelerator file current"
+  "Chrome helper setup: the folder address is copied for you, so Load unpacked is just Ctrl+V"
  ],
  "critical": false,
  "published": "2026-11-03"
