@@ -1,9 +1,9 @@
 {
- "version": "2.25.11",
+ "version": "2.25.12",
  "notes": [
-  "Chrome helper setup: the folder address is copied for you, so Load unpacked is just Ctrl+V"
+  "Home screen photo-update count now matches the store's list"
  ],
- "zip": "ListingAccelerator-2.25.11.zip",
- "sha256": "d78c9f2c8d30352a0e2c3b2a11177a18159f36a2c205af492019d9b7d4be3ce2",
+ "zip": "ListingAccelerator-2.25.12.zip",
+ "sha256": "7aa383e3a1ce84e4bb6e4e7d85fd71de2d2e0b55adc11737077c2a0933dc28da",
  "critical": false
 }
