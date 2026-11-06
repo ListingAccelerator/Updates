@@ -1,8 +1,8 @@
 {
- "version": "2.25.15",
- "zip": "ListingAccelerator-2.25.15.zip",
+ "version": "2.25.16",
+ "zip": "ListingAccelerator-2.25.16.zip",
  "notes": [
-  "Instructions: team folder setup and business page posts on the dashboard"
+  "New: Accelerator on your phone (test version) in Integrations"
  ],
  "critical": false,
  "published": "2026-11-06"
