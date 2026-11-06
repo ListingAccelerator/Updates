@@ -1,9 +1,9 @@
 {
- "version": "2.25.21",
+ "version": "2.25.22",
  "notes": [
-  "Add customer: the car they're looking at shows in its own card"
+  "Copy & log shows in What I sent right away, with the words you sent"
  ],
- "zip": "ListingAccelerator-2.25.21.zip",
- "sha256": "28b107cdf020596ed303acc173574fe71abff8e17b3b257a353af13ab86aada4",
+ "zip": "ListingAccelerator-2.25.22.zip",
+ "sha256": "5076c96a8df56eccf9058990023d36be1e020d051c23578f68af0ee03edcb8e5",
  "critical": false
 }
