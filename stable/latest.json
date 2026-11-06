@@ -1,9 +1,9 @@
 {
- "version": "2.25.22",
+ "version": "2.25.23",
  "notes": [
-  "Copy & log shows in What I sent right away, with the words you sent"
+  "AI replies read the whole conversation and list everything the customer has asked"
  ],
- "zip": "ListingAccelerator-2.25.22.zip",
- "sha256": "5076c96a8df56eccf9058990023d36be1e020d051c23578f68af0ee03edcb8e5",
+ "zip": "ListingAccelerator-2.25.23.zip",
+ "sha256": "ef4d338d786562d229076cebd81bd3c4a95ffdb46b5ea0865b4f725f371a267c",
  "critical": false
 }
