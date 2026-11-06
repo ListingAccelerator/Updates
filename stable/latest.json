@@ -1,9 +1,9 @@
 {
- "version": "2.25.17",
+ "version": "2.25.18",
  "notes": [
-  "Accelerator CRM search shows matches right under the box; Enter opens"
+  "Support button on every screen (top bar, next to Go post)"
  ],
- "zip": "ListingAccelerator-2.25.17.zip",
- "sha256": "cac59bb4b4401ec39a30faa85cb7489e80165d428fd0e83558091be416394b7d",
+ "zip": "ListingAccelerator-2.25.18.zip",
+ "sha256": "b305bb6befd80499062e9a4e66da6f6f82e290fa20ea537abfe94596b25c93ab",
  "critical": false
 }
