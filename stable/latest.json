@@ -1,9 +1,9 @@
 {
- "version": "2.25.12",
+ "version": "2.25.13",
  "notes": [
-  "Home screen photo-update count now matches the store's list"
+  "Managers: Manager dashboard button on the store screen"
  ],
- "zip": "ListingAccelerator-2.25.12.zip",
- "sha256": "7aa383e3a1ce84e4bb6e4e7d85fd71de2d2e0b55adc11737077c2a0933dc28da",
+ "zip": "ListingAccelerator-2.25.13.zip",
+ "sha256": "ed6fee68a371ebf8c0303492cae513b4e8c90916e9dd464c2dc1f8bfc07b968b",
  "critical": false
 }
