@@ -1,9 +1,9 @@
 {
- "version": "2.25.13",
+ "version": "2.25.14",
  "notes": [
-  "Managers: Manager dashboard button on the store screen"
+  "Manager dashboard counts business page posts"
  ],
- "zip": "ListingAccelerator-2.25.13.zip",
- "sha256": "ed6fee68a371ebf8c0303492cae513b4e8c90916e9dd464c2dc1f8bfc07b968b",
+ "zip": "ListingAccelerator-2.25.14.zip",
+ "sha256": "fc0277487032f373c7597167c329504b7751b5eed5c5ac61fb9d9b63fe9f8590",
  "critical": false
 }
