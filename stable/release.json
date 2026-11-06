@@ -1,8 +1,8 @@
 {
- "version": "2.25.16",
- "zip": "ListingAccelerator-2.25.16.zip",
+ "version": "2.25.17",
+ "zip": "ListingAccelerator-2.25.17.zip",
  "notes": [
-  "New: Accelerator on your phone (test version) in Integrations"
+  "Accelerator CRM search shows matches right under the box; Enter opens"
  ],
  "critical": false,
  "published": "2026-11-06"
