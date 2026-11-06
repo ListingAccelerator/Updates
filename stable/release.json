@@ -1,8 +1,8 @@
 {
- "version": "2.25.20",
- "zip": "ListingAccelerator-2.25.20.zip",
+ "version": "2.25.21",
+ "zip": "ListingAccelerator-2.25.21.zip",
  "notes": [
-  "Pasting a Marketplace chat fills in the buyer's name again (Facebook's newer layout)"
+  "Add customer: the car they're looking at shows in its own card"
  ],
  "critical": false,
  "published": "2026-11-06"
