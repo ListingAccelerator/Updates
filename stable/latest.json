@@ -1,9 +1,9 @@
 {
- "version": "2.25.23",
+ "version": "2.25.24",
  "notes": [
-  "AI replies read the whole conversation and list everything the customer has asked"
+  "Ads never post fill-in reminders; real engine (e.g. 4-Cylinder) kept"
  ],
- "zip": "ListingAccelerator-2.25.23.zip",
- "sha256": "ef4d338d786562d229076cebd81bd3c4a95ffdb46b5ea0865b4f725f371a267c",
+ "zip": "ListingAccelerator-2.25.24.zip",
+ "sha256": "8a7c2d0572c9d061950ee6e67a09be4b61c4caa7d1c7a18b4f9441ef407da30d",
  "critical": false
 }
