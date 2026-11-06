@@ -1,9 +1,9 @@
 {
- "version": "2.25.18",
+ "version": "2.25.19",
  "notes": [
-  "Support button on every screen (top bar, next to Go post)"
+  "Manager: full report on each salesperson (click his name on the dashboard)"
  ],
- "zip": "ListingAccelerator-2.25.18.zip",
- "sha256": "b305bb6befd80499062e9a4e66da6f6f82e290fa20ea537abfe94596b25c93ab",
+ "zip": "ListingAccelerator-2.25.19.zip",
+ "sha256": "ae60fa0911081f6953c302dcf7d66323495c77d8a41a1840f53d33512bdbfb8a",
  "critical": false
 }
