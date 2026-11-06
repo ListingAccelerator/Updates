@@ -1,9 +1,9 @@
 {
- "version": "2.25.19",
+ "version": "2.25.20",
  "notes": [
-  "Manager: full report on each salesperson (click his name on the dashboard)"
+  "Pasting a Marketplace chat fills in the buyer's name again (Facebook's newer layout)"
  ],
- "zip": "ListingAccelerator-2.25.19.zip",
- "sha256": "ae60fa0911081f6953c302dcf7d66323495c77d8a41a1840f53d33512bdbfb8a",
+ "zip": "ListingAccelerator-2.25.20.zip",
+ "sha256": "0eccfa278f8b570613b98099a3df01eebb2a880f1023faddab097f5dd8768872",
  "critical": false
 }
