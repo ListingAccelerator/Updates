@@ -1,8 +1,8 @@
 {
- "version": "2.25.21",
- "zip": "ListingAccelerator-2.25.21.zip",
+ "version": "2.25.22",
+ "zip": "ListingAccelerator-2.25.22.zip",
  "notes": [
-  "Add customer: the car they're looking at shows in its own card"
+  "Copy & log shows in What I sent right away, with the words you sent"
  ],
  "critical": false,
  "published": "2026-11-06"
