@@ -1,9 +1,9 @@
 {
- "version": "2.25.24",
+ "version": "2.25.25",
  "notes": [
-  "Ads never post fill-in reminders; real engine (e.g. 4-Cylinder) kept"
+  "Chrome helper reads the open chat window on the Marketplace inbox (helper 1.5.1)"
  ],
- "zip": "ListingAccelerator-2.25.24.zip",
- "sha256": "8a7c2d0572c9d061950ee6e67a09be4b61c4caa7d1c7a18b4f9441ef407da30d",
+ "zip": "ListingAccelerator-2.25.25.zip",
+ "sha256": "df12b69e476c399b77145a504180ac42be6510ef6b0a9b9f2f0d7c5f4d9b8b3d",
  "critical": false
 }
