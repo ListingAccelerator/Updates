@@ -1,9 +1,9 @@
 {
- "version": "2.25.15",
+ "version": "2.25.16",
  "notes": [
-  "Instructions: team folder setup and business page posts on the dashboard"
+  "New: Accelerator on your phone (test version) in Integrations"
  ],
- "zip": "ListingAccelerator-2.25.15.zip",
- "sha256": "e69ae6227dc3791b8beb04ef8c7e0d5fff9d47d47298b31d222e849e3ad56079",
+ "zip": "ListingAccelerator-2.25.16.zip",
+ "sha256": "49757292963fec4d9b80d4b82607976ef63f42d6e9f839419db5297676df840c",
  "critical": false
 }
