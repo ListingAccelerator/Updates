@@ -1,0 +1,159 @@
+{%- comment -%}
+  ASA Chooser - the three doors to the training books.
+  Lives on the Training Books page (template page.books).
+{%- endcomment -%}
+
+<style>
+  .asa-choose {
+    background: #0C1626;
+    color: #E6EDF7;
+    padding: 56px 20px 64px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .asa-choose__inner { max-width: 1180px; margin: 0 auto; }
+  .asa-choose__eyebrow {
+    font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase;
+    color: #C8A64B; margin: 0 0 14px; text-align: center; font-weight: 600;
+  }
+  .asa-choose__title {
+    font-size: 34px; line-height: 1.15; font-weight: 700; margin: 0 0 12px;
+    text-align: center; color: #FFFFFF;
+  }
+  .asa-choose__sub {
+    font-size: 17px; line-height: 1.55; color: #A9BBD2; margin: 0 auto 40px;
+    text-align: center; max-width: 620px;
+  }
+  .asa-choose__grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; align-items: stretch;
+  }
+  .asa-choose .asa-card {
+    background: #16263F; border: 1px solid #24385A; border-radius: 4px;
+    padding: 30px 26px 28px; display: flex; flex-direction: column;
+  }
+  .asa-choose .asa-card--feature { border-color: #C8A64B; background: #1A2C48; }
+  .asa-choose .asa-card__tag {
+    font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: #C8A64B; font-weight: 700; margin: 0 0 10px; min-height: 16px;
+  }
+  .asa-choose .asa-card__h {
+    font-size: 22px; font-weight: 700; margin: 0 0 10px; color: #FFFFFF; line-height: 1.25;
+  }
+  .asa-choose .asa-card__p {
+    font-size: 15px; line-height: 1.6; color: #A9BBD2; margin: 0 0 22px; flex-grow: 1;
+  }
+  .asa-choose a.asa-btn {
+    display: block; width: 100%; box-sizing: border-box; margin-top: auto;
+    text-align: center; text-decoration: none; border-radius: 3px;
+    padding: 13px 18px; font-size: 15px; font-weight: 700; line-height: 1.3;
+    box-shadow: none; background-image: none; transition: none;
+  }
+  .asa-choose a.asa-btn--gold {
+    background: #C8A64B !important; background-image: none !important;
+    color: #0C1626 !important; border: 1px solid #C8A64B !important;
+  }
+  .asa-choose a.asa-btn--gold:hover {
+    background: #D9B75E !important; color: #0C1626 !important;
+  }
+  .asa-choose a.asa-btn--ghost {
+    background: transparent !important; background-image: none !important;
+    border: 1px solid #3C5478 !important; color: #E6EDF7 !important;
+  }
+  .asa-choose a.asa-btn--ghost:hover {
+    border-color: #C8A64B !important; color: #FFFFFF !important;
+    background: rgba(200,166,75,0.08) !important;
+  }
+  .asa-choose .asa-card__note {
+    font-size: 13px; color: #8FA3BF; margin: 14px 0 0; text-align: center;
+    min-height: 19px;
+  }
+  .asa-choose .asa-card__note a { color: #E8CF8A; text-decoration: underline; }
+  @media (max-width: 900px) {
+    .asa-choose__grid { grid-template-columns: 1fr; }
+    .asa-choose__title { font-size: 27px; }
+    .asa-choose { padding: 40px 18px 46px; }
+    .asa-choose .asa-card__note { min-height: 0; }
+  }
+</style>
+
+<div class="asa-choose">
+  <div class="asa-choose__inner">
+    {% if section.settings.eyebrow != blank %}
+      <p class="asa-choose__eyebrow">{{ section.settings.eyebrow }}</p>
+    {% endif %}
+    {% if section.settings.title != blank %}
+      <h2 class="asa-choose__title">{{ section.settings.title }}</h2>
+    {% endif %}
+    {% if section.settings.subtitle != blank %}
+      <p class="asa-choose__sub">{{ section.settings.subtitle }}</p>
+    {% endif %}
+
+    <div class="asa-choose__grid">
+      <div class="asa-card">
+        <p class="asa-card__tag">{{ section.settings.free_tag }}</p>
+        <h3 class="asa-card__h">{{ section.settings.free_title }}</h3>
+        <p class="asa-card__p">{{ section.settings.free_text }}</p>
+        <a class="asa-btn asa-btn--ghost" href="{{ section.settings.free_link_1_url }}">{{ section.settings.free_button }}</a>
+        <p class="asa-card__note">
+          {{ section.settings.free_link_2_sub }}
+          <a href="{{ section.settings.free_link_2_url }}">{{ section.settings.free_link_2 }}</a>
+        </p>
+      </div>
+
+      <div class="asa-card asa-card--feature">
+        <p class="asa-card__tag">{{ section.settings.paid_tag }}</p>
+        <h3 class="asa-card__h">{{ section.settings.paid_title }}</h3>
+        <p class="asa-card__p">{{ section.settings.paid_text }}</p>
+        <a class="asa-btn asa-btn--gold" href="{{ section.settings.paid_url }}">{{ section.settings.paid_button }}</a>
+        <p class="asa-card__note">{{ section.settings.paid_note }}</p>
+      </div>
+
+      <div class="asa-card">
+        <p class="asa-card__tag">{{ section.settings.hire_tag }}</p>
+        <h3 class="asa-card__h">{{ section.settings.hire_title }}</h3>
+        <p class="asa-card__p">{{ section.settings.hire_text }}</p>
+        <a class="asa-btn asa-btn--ghost" href="{{ section.settings.hire_url }}">{{ section.settings.hire_button }}</a>
+        <p class="asa-card__note">
+          {% if section.settings.hire_phone != blank %}
+            or call or text
+            <a href="tel:{{ section.settings.hire_phone | remove: '-' | remove: ' ' }}">{{ section.settings.hire_phone }}</a>
+          {% endif %}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "ASA Chooser",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Automotive Sales Accelerator" },
+    { "type": "text", "id": "title", "label": "Heading", "default": "3 decades in the automotive business, in one place." },
+    { "type": "textarea", "id": "subtitle", "label": "Subheading", "default": "Nine years selling, then the finance box, where every deal in the house came to close. Start wherever you are." },
+    { "type": "header", "content": "Card 1 - Free" },
+    { "type": "text", "id": "free_tag", "label": "Tag", "default": "Start here" },
+    { "type": "text", "id": "free_title", "label": "Title", "default": "Two free playbooks" },
+    { "type": "text", "id": "free_button", "label": "Button label", "default": "Start Free" },
+    { "type": "textarea", "id": "free_text", "label": "Text", "default": "IGNITION, the 21-day mindset and momentum starter. No charge, no catch. Read it tonight and use it tomorrow." },
+    { "type": "url", "id": "free_link_1_url", "label": "Button URL (IGNITION page)" },
+    { "type": "text", "id": "free_link_2", "label": "Second link label", "default": "TRANSMISSION" },
+    { "type": "text", "id": "free_link_2_sub", "label": "Second link lead-in", "default": "Also free, the phone deal playbook:" },
+    { "type": "url", "id": "free_link_2_url", "label": "Second link URL (TRANSMISSION page)" },
+    { "type": "header", "content": "Card 2 - Manuals (highlighted)" },
+    { "type": "text", "id": "paid_tag", "label": "Tag", "default": "The full system" },
+    { "type": "text", "id": "paid_title", "label": "Title", "default": "The manuals" },
+    { "type": "textarea", "id": "paid_text", "label": "Text", "default": "Six books. The 10-step road to the sale, word-for-word scripts, closes, and the objections you hear every day." },
+    { "type": "text", "id": "paid_button", "label": "Button label", "default": "See The Manuals" },
+    { "type": "url", "id": "paid_url", "label": "Button URL" },
+    { "type": "text", "id": "paid_note", "label": "Small line under the button", "default": "Instant download. 30-day guarantee." },
+    { "type": "header", "content": "Card 3 - Training and speaking" },
+    { "type": "text", "id": "hire_tag", "label": "Tag", "default": "For dealerships" },
+    { "type": "text", "id": "hire_title", "label": "Title", "default": "Train my team" },
+    { "type": "textarea", "id": "hire_text", "label": "Text", "default": "On-site dealership training, multi-store workshops, and conference speaking. Every engagement built around your floor." },
+    { "type": "text", "id": "hire_button", "label": "Button label", "default": "Let's Talk" },
+    { "type": "url", "id": "hire_url", "label": "Button URL" },
+    { "type": "text", "id": "hire_phone", "label": "Phone (blank to hide)", "default": "704-998-7280" }
+  ],
+  "presets": [{ "name": "ASA Chooser" }]
+}
+{% endschema %}

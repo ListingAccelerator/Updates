@@ -1,0 +1,35 @@
+{
+ "sections": {
+  "asa": {
+   "type": "asa-chooser",
+   "settings": {
+    "eyebrow": "Automotive Sales Accelerator",
+    "title": "3 decades in the automotive business, in one place.",
+    "subtitle": "Nine years selling, then the finance box, where every deal in the house came to close. Start wherever you are.",
+    "free_tag": "Start here",
+    "free_title": "Two free playbooks",
+    "free_button": "Start Free",
+    "free_text": "IGNITION, the 21-day mindset and momentum starter. No charge, no catch. Read it tonight and use it tomorrow.",
+    "free_link_1_url": "/pages/get-ignition-free",
+    "free_link_2": "TRANSMISSION",
+    "free_link_2_sub": "Also free, the phone deal playbook:",
+    "free_link_2_url": "/pages/get-transmission-free",
+    "paid_tag": "The full system",
+    "paid_title": "The manuals",
+    "paid_text": "Six books. The 10-step road to the sale, word-for-word scripts, closes, and the objections you hear every day.",
+    "paid_button": "See The Manuals",
+    "paid_url": "/collections/all",
+    "paid_note": "Instant download. 30-day guarantee.",
+    "hire_tag": "For dealerships",
+    "hire_title": "Train my team",
+    "hire_text": "On-site dealership training, multi-store workshops, and conference speaking. Every engagement built around your floor.",
+    "hire_button": "Let's Talk",
+    "hire_url": "/pages/training-speaking",
+    "hire_phone": "704-998-7280"
+   }
+  }
+ },
+ "order": [
+  "asa"
+ ]
+}
