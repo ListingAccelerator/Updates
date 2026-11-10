@@ -1,9 +1,10 @@
 {
- "version": "2.25.25",
- "zip": "ListingAccelerator-2.25.25.zip",
+ "version": "2.25.26",
+ "zip": "ListingAccelerator-2.25.26.zip",
  "notes": [
-  "Chrome helper reads the open chat window on the Marketplace inbox (helper 1.5.1)"
+  "Fix: saving buyers from the Marketplace inbox no longer adds their chat to another customer's card. Each buyer gets their own card.",
+  "Stray highlights (like a period or the stock number) are no longer saved as chat."
  ],
  "critical": false,
- "published": "2026-11-06"
+ "published": "2026-11-10"
 }
