@@ -1,10 +1,10 @@
 {
- "version": "2.25.26",
- "zip": "ListingAccelerator-2.25.26.zip",
+ "version": "2.25.27",
+ "zip": "ListingAccelerator-2.25.27.zip",
  "notes": [
-  "Fix: saving buyers from the Marketplace inbox no longer adds their chat to another customer's card. Each buyer gets their own card.",
-  "Stray highlights (like a period or the stock number) are no longer saved as chat."
+  "Chrome helper is now in the Chrome Web Store: Integrations > Set up in Chrome opens it, then press Add to Chrome. No more Developer mode.",
+  "Already loaded it by hand? That copy keeps working. If you add the Web Store one, remove the old Unpacked card so there aren't two."
  ],
  "critical": false,
- "published": "2026-11-10"
+ "published": "2026-11-11"
 }
