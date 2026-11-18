@@ -1,10 +1,11 @@
 {
- "version": "2.25.27",
- "zip": "ListingAccelerator-2.25.27.zip",
+ "version": "2.25.28",
+ "zip": "ListingAccelerator-2.25.28.zip",
  "notes": [
-  "Chrome helper is now in the Chrome Web Store: Integrations > Set up in Chrome opens it, then press Add to Chrome. No more Developer mode.",
-  "Already loaded it by hand? That copy keeps working. If you add the Web Store one, remove the old Unpacked card so there aren't two."
+  "Photos: a car you have live now always gets its photos downloaded, even a sister store's car or one outside your filters.",
+  "The morning list now tells you when the website has new pictures that are not in your Photos folder yet, instead of telling you to swap in photos that are not there.",
+  "Empty photo folders are now reported correctly in the update's \"still empty\" list."
  ],
  "critical": false,
- "published": "2026-11-11"
+ "published": "2026-11-18"
 }
