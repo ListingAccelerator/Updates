@@ -1,11 +1,9 @@
 {
- "version": "2.25.28",
- "zip": "ListingAccelerator-2.25.28.zip",
+ "version": "2.25.29",
+ "zip": "ListingAccelerator-2.25.29.zip",
  "notes": [
-  "Photos: a car you have live now always gets its photos downloaded, even a sister store's car or one outside your filters.",
-  "The morning list now tells you when the website has new pictures that are not in your Photos folder yet, instead of telling you to swap in photos that are not there.",
-  "Empty photo folders are now reported correctly in the update's \"still empty\" list."
+  "New: four free Christmas music tracks for your walkaround videos. Jingle Bells and We Wish You a Merry Christmas, each in two styles. Pick one in the Music list, and press Listen to hear it. They are made by the program itself, so they are free to use and post anywhere."
  ],
  "critical": false,
- "published": "2026-11-18"
+ "published": "2026-11-20"
 }
